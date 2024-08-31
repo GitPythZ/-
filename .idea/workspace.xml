@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="" />
+    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="8 глава" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -18,7 +25,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/GitPythZ/Git_repository.git",
+    "url": "https://github.com/GitPythZ/-.git",
     "accountId": "7208ad1a-cc1d-4bb2-a948-c376d09f1b9d"
   }
 }]]></component>
@@ -35,6 +42,12 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -53,6 +66,35 @@
       <option name="presentableId" value="Default" />
       <updated>1725128535088</updated>
     </task>
+    <task id="LOCAL-00001" summary="8 глава">
+      <option name="closed" value="true" />
+      <created>1725128688058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725128688058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8 глава">
+      <option name="closed" value="true" />
+      <created>1725128730505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725128730505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8 глава">
+      <option name="closed" value="true" />
+      <created>1725128824786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725128824786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8 глава" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 глава" />
   </component>
 </project>

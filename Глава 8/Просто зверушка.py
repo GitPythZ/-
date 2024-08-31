@@ -1,2 +1,0 @@
-class Critter(object):
-    pass
