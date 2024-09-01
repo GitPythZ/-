@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="Свойства объектов">
-      <change afterPath="$PROJECT_DIR$/Глава 8/Моя зверушка (critter_caretaker).py" afterDir="false" />
+    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="Моя зверухаа">
+      <change afterPath="$PROJECT_DIR$/Глава 2/GameOver 2.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Глава 8/private_critter_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/Частная зверушка (private_critter).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Глава 8/Зверушка со свойствами(property_critter).py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/Зверушка со свойствами(property_critter).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Глава 8/Моя зверушка (critter_caretaker).py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/Моя зверушка (critter_caretaker).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725215732106</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Моя зверухаа">
+      <option name="closed" value="true" />
+      <created>1725225393849</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725225393849</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +151,7 @@
     <MESSAGE value="class Critter" />
     <MESSAGE value="Закрытый метод(атрибут)" />
     <MESSAGE value="Свойства объектов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Свойства объектов" />
+    <MESSAGE value="Моя зверухаа" />
+    <option name="LAST_COMMIT_MESSAGE" value="Моя зверухаа" />
   </component>
 </project>

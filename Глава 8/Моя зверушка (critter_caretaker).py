@@ -82,7 +82,6 @@ class Critter(object):
     #
     # @name.setter
     # def name(self, new_name):
-    #     str(input()) == new_name
     #     if new_name == "":
     #         print("Имя зверюшки не может быть пустой строкой")
     #     else:
