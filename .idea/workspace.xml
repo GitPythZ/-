@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="8 глава" />
+    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="class Critter">
+      <change afterPath="$PROJECT_DIR$/Глава 8/private_critter_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GitPythZ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GitPythZ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GitPythZ/-.git",
-    "accountId": "7208ad1a-cc1d-4bb2-a948-c376d09f1b9d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GitPythZ/-.git&quot;,
+    &quot;accountId&quot;: &quot;7208ad1a-cc1d-4bb2-a948-c376d09f1b9d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lR2OKcpSDCD7xr69tfQ5zfQp4K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +46,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.private_critter_1.executor": "Run",
+    "Python.Классово верная зверушка.executor": "Run",
+    "Python.Просто зверушка.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   },
@@ -90,11 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725128824786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class Critter">
+      <option name="closed" value="true" />
+      <created>1725135458738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725135458738</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class Critter">
+      <option name="closed" value="true" />
+      <created>1725136759793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725136759793</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8 глава" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 глава" />
+    <MESSAGE value="class Critter" />
+    <option name="LAST_COMMIT_MESSAGE" value="class Critter" />
   </component>
 </project>
