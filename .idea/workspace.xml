@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="Закрытый метод(атрибут)">
-      <change afterPath="$PROJECT_DIR$/Глава 8/Зверушка со свойствами(property_critter).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Глава 8/private_critter_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/private_critter_1.py" afterDir="false" />
+    <list default="true" id="1f04e8f9-9ef1-4e6f-af60-f7e2b949b699" name="Changes" comment="Свойства объектов">
+      <change afterPath="$PROJECT_DIR$/Глава 8/Моя зверушка (critter_caretaker).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Глава 8/private_critter_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/Частная зверушка (private_critter).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Глава 8/Зверушка со свойствами(property_critter).py" beforeDir="false" afterPath="$PROJECT_DIR$/Глава 8/Зверушка со свойствами(property_critter).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.private_critter_1.executor": "Run",
+    "Python.Зверушка с атрибутом.executor": "Run",
+    "Python.Зверушка со свойствами(property_critter).executor": "Run",
     "Python.Классово верная зверушка.executor": "Run",
+    "Python.Моя зверушка (critter_caretaker).executor": "Run",
     "Python.Просто зверушка.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -123,13 +128,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725214063647</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Свойства объектов">
+      <option name="closed" value="true" />
+      <created>1725215732106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725215732106</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8 глава" />
     <MESSAGE value="class Critter" />
     <MESSAGE value="Закрытый метод(атрибут)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закрытый метод(атрибут)" />
+    <MESSAGE value="Свойства объектов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Свойства объектов" />
   </component>
 </project>
